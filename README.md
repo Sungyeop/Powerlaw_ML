@@ -7,4 +7,4 @@ The frequency of the internal representation of deep neural network follows powe
 ![스크린샷 2022-01-19 오후 7 50 33](https://user-images.githubusercontent.com/42707786/150115923-96706358-fe12-45b6-a002-f025a1620975.png)
 
 # Reference
-- Sungyeop Lee and Junghyo Jo, "Scale-invariant representation of machine learning", arXiv preprint arXiv:22109.02914 (2021). 
+- Sungyeop Lee and Junghyo Jo, "Scale-invariant representation of machine learning", Physical Review E 105.4 (2022): 044306. 
